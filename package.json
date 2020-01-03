@@ -1,0 +1,26 @@
+{
+  "name": "vi-projects",
+  "version": "1.0.0",
+  "description": "A projects and resources management tool for me on desktops.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "./node_modules/.bin/electron index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/viRingbells/vi-projects.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Sun Haohao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/viRingbells/vi-projects/issues"
+  },
+  "homepage": "https://github.com/viRingbells/vi-projects#readme",
+  "devDependencies": {
+    "electron": "^7.1.7"
+  }
+}
